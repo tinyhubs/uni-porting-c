@@ -7,7 +7,7 @@
 
 //  定义了一个支持带消息字段的断言
 #ifndef ASSERT_MESSAGE
-#define ASSERT_MESSAGE(expr,message)   assert(e)
+#define ASSERT_MESSAGE(expr,message)   assert(expr)
 #endif//ASSERT_MESSAGE
 
 
